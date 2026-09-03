@@ -1,0 +1,30 @@
+Supply Chain Analysis Dashboard – Documentation
+Project Overview
+
+The Supply Chain Analysis Dashboard was developed using Microsoft Power BI to analyze and monitor key supply chain and business performance indicators. The dashboard converts operational data into interactive visualizations, enabling users to evaluate orders, revenue, delivery efficiency, damages, warehouses, regions, product categories, and delivery partners.
+
+Objectives
+
+The main objective of the dashboard is to provide a centralized view of supply chain performance and support data-driven decision-making. It helps management identify delivery delays, monitor revenue and order trends, evaluate logistics performance, and identify areas requiring operational improvement.
+
+Dashboard Components
+
+The report consists of four main pages: Home, Executive Overview, Delivery Performance, and Order Detail.
+
+Home: Provides an overall view of total orders, total revenue, damaged orders, delivery status, order trends, and top product categories by revenue.
+Executive Overview: Presents important KPIs such as average delivery rating, total orders, delay percentage, net profit, and total revenue, along with revenue analysis by category.
+Delivery Performance: Focuses on average delivery time, damage percentage, delayed orders, on-time delivery percentage, and delivery ratings. It helps evaluate logistics and delivery efficiency.
+Order Detail: Provides detailed order-level information including order date, customer segment, product category, warehouse, region, delivery partner, and revenue.
+Data and Analysis
+
+The dashboard uses a structured data model consisting of order, customer, product, warehouse, and delivery-partner information. Power BI measures are used to calculate important KPIs such as Total Orders, Total Revenue, Damaged Orders, Delayed Orders, Delay %, Damage %, Net Profit, Average Delivery Rating, and On-Time Delivery %.
+
+Interactive slicers for Region, Warehouse, Order Date, and Delivery Partner allow users to drill down into specific areas of the supply chain.
+
+Key Benefits
+
+The dashboard enables users to identify high-performing product categories and regions, monitor warehouse and delivery-partner performance, detect delivery delays and damaged orders, and evaluate customer delivery experience. It provides both high-level management insights and detailed transaction-level analysis.
+
+Conclusion
+
+The Supply Chain Analysis Dashboard demonstrates how Power BI can transform supply chain data into meaningful business insights. By combining financial, operational, logistics, and customer-related metrics in an interactive platform, the dashboard supports better monitoring, faster problem identification, and more effective supply chain decision-making.
